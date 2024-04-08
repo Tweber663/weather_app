@@ -1,0 +1,28 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+  }
+  .container{
+    max-width: 400px;
+  }
+
+  .icon {
+    position: relative;
+    background-color: black;
+  }
+
+  .icon img {
+    width: 80px;
+    border-radius: 50px;
+    position: absolute;
+    background-color: rgb(203, 203, 203);
+    transform: translate(-50%, -50%);
+  }
+
+  .details {
+    margin-top: 50px;
+  }
+
+  
+  
